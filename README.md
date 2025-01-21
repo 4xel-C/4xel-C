@@ -14,7 +14,7 @@ Search🔍, Learn📚, Optimize⚙️, Repeat🔄.
 ## Languages and tools 💻
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
-## Education and certifications 🎓
+## Repository highlights 🎓
 <!--
 **4xel-C/4xel-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
