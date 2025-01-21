@@ -9,8 +9,10 @@ Search🔍, Learn📚, Optimize⚙️, Repeat🔄.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cano-007863318/) 
 
+<hr>
+
 ## Languages and tools 💻
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **4xel-C/4xel-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
