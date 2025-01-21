@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cano-007863318/)
 
-## Languages and tools
+## 💻 Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,git,c&theme=light)](https://skillicons.dev)
 
 <!--
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
