@@ -5,7 +5,7 @@ I am an **organic chemist**⚗️🧪 and a **computational enthusiast**💻. I 
 
 My growing interest in **Data Science**, **Machine Learning**, and **Deep Learning** fuels my creativity, inspiring me to bring innovative ideas, disruptive solutions and explore new paths in research. By leveraging the vast amounts of data we can generate over time, I aim to detect emerging trends and uncover valuable insights! 📊🚀
 
-Search🔍, Learn📚, Optimize⚙️, Repeat🔄.
+**Search🔍, Learn📚, Optimize⚙️, Repeat🔄.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cano-007863318/) 
 
