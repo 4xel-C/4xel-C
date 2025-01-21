@@ -1,11 +1,16 @@
 ## 🚧 On construction 🚧
 
 ## Hi there 👋
+I am an **organic chemist**⚗️🧪 and a **computational enthusiast**💻. I believe that programming, applied to solving real-life problems, whether at a research level or in operational optimization, can greatly speed up and streamline daily work. This approach frees minds from repetitive or cumbersome tasks, allowing people to shine and focus on what they do best! 💡✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cano-007863318/)
+My growing interest in **Data Science**, **Machine Learning**, and **Deep Learning** fuels my creativity, inspiring me to bring innovative ideas, disruptive solutions and explore new paths in research. By leveraging the vast amounts of data we can generate over time, I aim to detect emerging trends and uncover valuable insights! 📊🚀
 
-## 💻 Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,git,c&theme=light)](https://skillicons.dev)
+Search🔍, Learn📚, Optimize⚙️, Repeat🔄.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-cano-007863318/) 
+
+## Languages and tools 💻
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **4xel-C/4xel-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
