@@ -23,10 +23,10 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 **HarvardX's CS50** is among the most famous computer science programs on the internet. Each certification requires **intense work** and **dedication**, involving tens of hours of course lectures and multiple projects. Each project is verified and validated by the course staff, requiring the student to acquire skills beyond the lecture scope. As an estimated time for completion, each *professional certificate* takes around 3 to 6 months, with an investment of about 15 hours a week to complete. ⏳
 
 - [**Computer Science for Python Programming (CS50 + CS50P)**](https://github.com/4xel-C/CS50): 🧠 Memory, 📊 Algorithms, 💻 Low-level programming in C, 🌐 Web programming, 🛠️ Problem solving.
-- [**Computer Science for Web Development**](https://github.com/4xel-C/CS50W_web_development): HTML, CSS, Python (Django), JavaScript.
+- [**Computer Science for Web Development**](https://github.com/4xel-C/CS50W_web_development): HTML, CSS, 🐍 Python (Django), JavaScript.
   - [Capstone project](https://github.com/4xel-C/CS50W_Final-project): Prototype of inventory manager for chemicals.
 - [**Computer Science for Artificial Intelligence**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence)
 
-### FreeCodeCamp
-FreeCodeCamp offer many trainings on various topics of Computer Science through project achievment.
- - **[FreeCodeCamp projects](https://github.com/4xel-C/FreeCodeCamp)**: Completion of various project on Web Programming, Python programming and data analysis.
+### FreeCodeCamp Repository 🎓
+FreeCodeCamp offers many trainings on various topics of Computer Science through project achievement. 🚀
+- **[FreeCodeCamp Projects](https://github.com/4xel-C/FreeCodeCamp)**: Completion of various projects on 🌐 Web Programming, 🐍 Python programming, and 📊 Data Analysis.
