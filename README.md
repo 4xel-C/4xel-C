@@ -14,21 +14,14 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 ## Languages and tools 💻
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
+<hr>
+
 ## Repository Highlights 🌟
-<!--
-**4xel-C/4xel-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### CS50 Certifications Repositories 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**HarvardX's CS50** is among the most famous computer science programs on the internet. Each certification requires **intense work** and **dedication**, involving tens of hours of course lectures and multiple projects. Each project is verified and validated by the course staff, requiring the student to acquire skills beyond the lecture scope. As an estimated time for completion, each *professional certificate* takes around 3 to 6 months, with an investment of about 15 hours a week to complete. ⏳
+
+- [**Computer Science for Python Programming (CS50 + CS50P)**](): 🧠 Memory, 📊 Algorithms,💻 Low-level programming in C, - 🌐 Web programming, - 🛠️ Problem solving
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
