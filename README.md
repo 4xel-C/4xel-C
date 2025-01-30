@@ -1,5 +1,3 @@
-## 🚧 On construction 🚧
-
 ## Hi there 👋
 I am an **organic chemist**⚗️🧪 and a **computational enthusiast**💻. I believe that programming, applied to solving real-life problems, whether at a research level or in operational optimization, can greatly speed up and streamline daily work. This approach frees minds from repetitive or cumbersome tasks, allowing people to shine and focus on what they do best! 💡✨
 
