@@ -28,7 +28,7 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 ### CS50 Certifications Repositories 🎓
 - [**Computer Science for Python Programming (CS50 + CS50P)**](https://github.com/4xel-C/CS50): 📊 Algorithms, 💻 C, 🌐 Web programming, 🛠️ Problem solving.
 - [**Computer Science for Web Development**](https://github.com/4xel-C/CS50W_web_development): HTML, CSS, 🐍 Python (Django), JavaScript.
-  - [Capstone project](https://github.com/4xel-C/CS50W_Final-project): Prototype of inventory manager for chemicals.
+  - [Capstone project](https://github.com/4xel-C/CS50W_Final-project): Prototype of chemicals inventory manager for chemicals.
 - [**Computer Science for Artificial Intelligence**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence): Neural Networks, Search, Optimization, Bayesian Network
 
 ### FreeCodeCamp Repository 🎓
