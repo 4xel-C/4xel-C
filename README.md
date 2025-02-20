@@ -10,7 +10,7 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 <hr>
 
 ## Languages and tools 💻
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
 ## Certifications 🎓
 
@@ -30,7 +30,7 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 - [**Computer Science for Web Development**](https://github.com/4xel-C/CS50W_web_development): HTML, CSS, 🐍 Python (Django), JavaScript.
   - [Capstone project](https://github.com/4xel-C/CS50W_Final-project): Prototype of chemicals inventory manager for chemicals.
 - [**Computer Science for Artificial Intelligence**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence): Neural Networks, Search, Optimization, Bayesian Network
-- [**Computer Science for DataScience using R**](https://github.com/4xel-C/CS50R): Dataframes manipulation, visualization, data transfomration 
+- [**Computer Science for DataScience using R**](https://github.com/4xel-C/CS50R): Dataframes manipulation, visualization, data transformation 
 
 ### FreeCodeCamp Repository 🎓
 FreeCodeCamp offers many trainings on various topics of Computer Science through project achievement. 🚀
