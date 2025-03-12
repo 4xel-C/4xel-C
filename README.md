@@ -16,6 +16,7 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 
 ### CS50 From HarvadX x Edx
 **HarvardX's CS50** is among the most famous computer science programs on the internet. Each certification requires **intense work** and **dedication**, involving tens of hours of course lectures and multiple projects. Each project is verified and validated by the course staff, requiring the student to acquire skills beyond the lecture scope. As an estimated time for completion, each *professional certificate* takes around 3 to 6 months, with an investment of about 15 hours a week to complete. ⏳
+- **[Computer Science for Data Science](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-data-science?index=product&queryId=338b966a24a1d1f42b81d2c048b8c643&position=1&correlationId=a5918b41-8508-46b9-af34-cf4f5679753c)**
 - **[Computer Science for Python Programming](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-python-programming?index=product&queryId=8c3cb298d207b14f51ec990427d58930&position=2)**
 - **[Computer Science for Web Development](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-web-programming?index=product&queryId=7c41d226fbf4eaab1a888addc23135bf&position=1)**
 - **[Computer Science for Artificial Intelligence](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence?index=product&queryId=dcce32e92aea5824cdff1a2df5c14fd2&position=3)**
