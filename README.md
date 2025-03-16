@@ -33,6 +33,9 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 - [**Computer Science for Artificial Intelligence**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence): Neural Networks, Search, Optimization, Bayesian Network
 - [**Computer Science for DataScience using R**](https://github.com/4xel-C/CS50R): Dataframes manipulation, visualization, data transformation 
 
+### Princeton's Alogrithms course (coursera)
+- [**Algorithms part 1**](https://github.com/4xel-C/coursera_algorithm_1): 📊 Algorithms, 📚Data Structures
+
 ### FreeCodeCamp Repository 🎓
 FreeCodeCamp offers many trainings on various topics of Computer Science through project achievement. 🚀
 - **[FreeCodeCamp Projects](https://github.com/4xel-C/FreeCodeCamp)**: Completion of various projects on 🌐 Web Programming, 🐍 Python programming, and 📊 Data Analysis.
