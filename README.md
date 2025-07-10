@@ -31,7 +31,8 @@ My growing interest in **Data Science**, **Machine Learning**, and **Deep Learni
 - [**Computer Science for Web Development**](https://github.com/4xel-C/CS50W_web_development): HTML, CSS, 🐍 Python (Django), JavaScript.
   - [Capstone project](https://github.com/4xel-C/CS50W_Final-project): Prototype of chemicals inventory manager.
 - [**Computer Science for Artificial Intelligence**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence): Neural Networks, Search, Optimization, Bayesian Network
-- [**Computer Science for DataScience using R**](https://github.com/4xel-C/CS50R): Dataframes manipulation, visualization, data transformation 
+- [**Computer Science for DataScience using R**](https://github.com/4xel-C/CS50R): Dataframes manipulation, visualization, data transformation
+- [**Computer Science for DataBases using SQL**](https://github.com/4xel-C/CS50_SQL)
 
 ### Princeton's Alogrithms (coursera)
 - [**Algorithms part 1 & 2**](https://github.com/4xel-C/coursera_algorithms_1): 📊 Algorithms, 📚Data Structures
