@@ -1,7 +1,6 @@
 ## Hi there 👋
-I am an **organic chemist**⚗️🧪 and a **computational enthusiast**💻. I believe that programming, applied to solving real-life problems, whether at a research level or in operational optimization, can greatly speed up and streamline daily work. This approach frees minds from repetitive or cumbersome tasks, allowing people to shine and focus on what they do best! 💡✨
+I am an **organic chemist**⚗️🧪 and a **Data Scientist** student💻. By leveraging the vast amounts of data we can generate over time, I aim to detect emerging trends and uncover valuable insights! 📊🚀
 
-My growing interest in **Data Science**, **Machine Learning**, and **Deep Learning** fuels my creativity, inspiring me to bring innovative ideas, disruptive solutions and explore new paths in research. By leveraging the vast amounts of data we can generate over time, I aim to detect emerging trends and uncover valuable insights! 📊🚀
 
 **Search🔍, Learn📚, Optimize⚙️, Repeat🔄.**
 
