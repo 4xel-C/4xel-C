@@ -14,7 +14,7 @@ By combining these skills with a deep understanding of life sciences, I aim to m
 ### Master 2 - Data Science | University of Lyon 2 (On going) 
 Master 2 degree in data science. Intensive formation covering the complete chain of data from source, calculation to models deployment (scrapping, ETL, visualization, associated with a strong background in statistics, machine learning, AI, MLOps).
 
-### Continuing Education (Bachelor/Master level) | CNAM lyon
+### Continuing Education (Bachelor/Master level) | CNAM Lyon 
 University modules in Mathematics, Computer Science, and Project Management
 
 ### Certifications | Online Courses 
@@ -24,12 +24,13 @@ University modules in Mathematics, Computer Science, and Project Management
 - CS50R   |  HarvardX: Advanced R.
 - CS50SQL |  HarvardX: Advanced SQL.
 
-<hr>
-
 ## Languages and tools 💻
 [![My Skills](https://skillicons.dev/icons?i=python,r,flask,django,anaconda,mysql,java,html,css,js,git,c,vscode&theme=light)](https://skillicons.dev)
 
-## Certifications Repository Highlights 🌟
+
+<hr>
+
+## Repository Highlights 🌟
 
 ### CS50 Certifications Repositories 
 - [**Computer Science for Python Programming (CS50 + CS50P)**](https://github.com/4xel-C/CS50): 📊 Algorithms, 💻 C, 🌐 Web programming, 🛠️ Problem solving.
