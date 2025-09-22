@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am an organic chemist ⚗️🧪 transitioning into Data Science 💻.
+I am an organic chemist ⚗️🧪 transitioning into **Data Science** 💻.
 
-My background in chemistry and R&D has trained me to tackle complex problems, analyze data with precision, and uncover hidden patterns within highly technical datasets at the crossroads of life sciences (chemistry, biology, biochemistry…). This passion for exploration naturally led me to pursue in Data Science, where I strive to harness data to generate valuable insights and emerging trends by developing new tools in machine learning and AI.
+My background in **chemistry** and R&D has trained me to tackle complex problems, analyze data with precision, and uncover hidden patterns within highly technical datasets at the crossroads of life sciences (chemistry, biology, biochemistry…). This passion for exploration naturally led me to pursue in **Data Science**, where I strive to harness data to generate valuable insights and emerging trends by developing new tools in machine learning and AI.
 
 By combining these skills with a deep understanding of life sciences, I aim to make impactful contributions to research and innovation. 📊🚀
 
