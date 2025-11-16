@@ -33,27 +33,27 @@ University modules in Mathematics, Computer Science, and Project Management
 
 ### Master 2 SISE - Projects
 
-
 <div align="center">
 
-[![Enedis](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=SISE_m2_enedis&theme=github_dark)](https://github.com/4xel-C/SISE_m2_enedis)
-[![TDs](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=SISE_TDs&theme=github_dark)](https://github.com/4xel-C/SISE_TDs)
+| Repository | Description | Languages |
+|------------|-------------|-----------|
+| [**SISE M2 Enedis**](https://github.com/4xel-C/SISE_m2_enedis) | **Machine learning** project with Enedis open data | Python |
+| [**SISE TDs**](https://github.com/4xel-C/SISE_TDs) | Practical exercises and tutorials | Python, R |
+| [**Variable Clustering**](https://github.com/4xel-C/SISE_var_clustering) | **R package** implementing **variable clustering** | R |
 
 </div>
-
 
 ### CS50 Certifications
 
 <div align="center">
 
-[![CS50](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50&theme=github_dark)](https://github.com/4xel-C/CS50)
-[![CS50W](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50W_web_development&theme=github_dark)](https://github.com/4xel-C/CS50W_web_development)
-
-[![CS50AI](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50AI_Artificial_Intelligence&theme=github_dark)](https://github.com/4xel-C/CS50AI_Artificial_Intelligence)
-[![CS50R](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50R&theme=github_dark)](https://github.com/4xel-C/CS50R)
-
-[![CS50SQL](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50_SQL&theme=github_dark)](https://github.com/4xel-C/CS50_SQL)
-[![Capstone](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=CS50W_Final-project&theme=github_dark)](https://github.com/4xel-C/CS50W_Final-project)
+| Repository | Description | Languages |
+|------------|-------------|-----------|
+| [**CS50 + CS50P**](https://github.com/4xel-C/CS50) | **Computer Science** & Python Programming | C, Python |
+| [**CS50W**](https://github.com/4xel-C/CS50W_web_development) | **Web Development** with Django & JavaScript | Python, JavaScript, HTML/CSS |
+| [**CS50AI**](https://github.com/4xel-C/CS50AI_Artificial_Intelligence) | **Artificial Intelligence** & Neural Networks | Python |
+| [**CS50R**](https://github.com/4xel-C/CS50R) | **Data Science** with R | R |
+| [**CS50SQL**](https://github.com/4xel-C/CS50_SQL) | **Databases** with SQL | SQL |
 
 </div>
 
@@ -61,12 +61,12 @@ University modules in Mathematics, Computer Science, and Project Management
 
 <div align="center">
 
-[![Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=coursera_algorithms_1&theme=github_dark)](https://github.com/4xel-C/coursera_algorithms_1)
-[![FreeCodeCamp](https://github-readme-stats.vercel.app/api/pin/?username=4xel-C&repo=FreeCodeCamp&theme=github_dark)](https://github.com/4xel-C/FreeCodeCamp)
+| Repository | Description | Languages |
+|------------|-------------|-----------|
+| [**Princeton Algorithms**](https://github.com/4xel-C/coursera_algorithms_1) | **Algorithms & Data Structures** (Part 1 & 2) | Java |
+| [**FreeCodeCamp Projects**](https://github.com/4xel-C/FreeCodeCamp) | Web Programming, Python & Data Analysis | Python, JavaScript, HTML/CSS |
 
 </div>
-
-<hr>
 
 ## GitHub Stats 📊
 
