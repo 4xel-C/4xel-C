@@ -38,7 +38,6 @@ University modules in Mathematics, Computer Science, and Project Management
 | Repository | Description | Languages |
 |------------|-------------|-----------|
 | [**SISE M2 Enedis**](https://github.com/4xel-C/SISE_m2_enedis) | **Machine learning** project with Enedis open data | Python |
-| [**SISE TDs**](https://github.com/4xel-C/SISE_TDs) | Practical exercises and tutorials | Python, R |
 | [**Variable Clustering**](https://github.com/4xel-C/SISE_var_clustering) | **R package** implementing **variable clustering** | R |
 
 </div>
