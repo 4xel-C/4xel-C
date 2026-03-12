@@ -33,12 +33,21 @@ University modules in Mathematics, Computer Science, and Project Management
 
 ### Master 2 SISE - Projects
 
+All concerned repositories are prepended with the tag *SISE*.
+
 <div align="center">
 
 | Repository | Description | Languages |
 |------------|-------------|-----------|
 | [**SISE M2 Enedis**](https://github.com/4xel-C/SISE_m2_enedis) | **Machine learning** project with Enedis open data | Python |
 | [**Variable Clustering**](https://github.com/4xel-C/SISE_var_clustering) | **R package** implementing **variable clustering** | R |
+|[**SISE WattsNext**](https://github.com/4xel-C/SISE_WattsNext)|**R package** implementing **WNN** to forecast electric cunsumption data.|R|
+|[**SISE JobFinder**](https://github.com/4xel-C/SISE_JobFinder)|**WebApplication and NLP** study of job offers.|Python|
+|[**SISE Diagnosys**](https://github.com/4xel-C/SISE_DiagnoSys)|**WebApplication for an AI augmented** medical diagnosys application.|Python|
+|[**SISE Flask**](https://github.com/4xel-C/SISE_Atelier_Flask)|**Course on Flask framework** taught to master 2 students.|Python|
+|[**SISE Security Data analysis**](https://github.com/4xel-C/SISE_x_OPSIE_Security_data_analysis)|**WebApplication for connection logs** analysis and **anomaly detection** *(2 days challenge)*.|Python|
+|[**SISE Safety Vision**](https://github.com/4xel-C/SISE_Safety_Vision_Detection)|**Image detection** model to detect PPE using fine tuned YOLO model.|Python|
+|[**SISE KeySentinel**](https://github.com/4xel-C/SISE_WebMining-Challenge)|**Keyboard and mouse tracker** build for a *2 days challenge*.|Python|
 
 </div>
 
