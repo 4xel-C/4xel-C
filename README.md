@@ -11,7 +11,7 @@ By combining these skills with a deep understanding of life sciences, I aim to m
 
 ## Education 🎓
 
-### Master 2 - Data Science | University of Lyon 2 (On going) 
+### Master 2 - Data Science | SISE | University of Lyon 2 (On going) 
 [Master 2](https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise) degree in data science. Intensive program covering the full data lifecycle: database architecture, ETL pipelines, scraping and data collection, statistical modeling, machine learning, deep learning, and agentic AI, through to model deployment and MLOps.
 
 ### Continuing Education (Bachelor/Master level) | CNAM Lyon 
