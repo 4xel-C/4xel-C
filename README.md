@@ -1,5 +1,5 @@
 ## About me
-I am an organic chemist ⚗️🧪, and a **master 2 student** transitioning into **Data Science** 💻 at **University of Lyon 2** [Master SISE](https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise).
+I am a **Data Scientist** 💻 and an **organic chemist** ⚗️.
 
 My background in **chemistry** and R&D has trained me to tackle complex problems, analyze data with precision, and uncover hidden patterns within highly technical datasets at the crossroads of life sciences (chemistry, biology, biochemistry…). This passion for exploration naturally led me to **Data Science**, where I strive to harness data to generate valuable insights and identify emerging trends through **statistics**, **machine learning** and **AI**.
 
@@ -12,7 +12,7 @@ By combining these skills with a deep understanding of life sciences, I aim to m
 ## Education 🎓
 
 ### Master 2 - Data Science | University of Lyon 2 (On going) 
-Master 2 degree in data science. Intensive formation covering the complete chain of data from source, calculation to models deployment (scrapping, ETL, visualization, associated with a strong background in statistics, machine learning, AI, MLOps).
+[Master 2](https://www.univ-lyon2.fr/master-2-informatique-statistique-et-informatique-sise) degree in data science. Intensive program covering the full data lifecycle: database architecture, ETL pipelines, scraping and data collection, statistical modeling, machine learning, deep learning, and agentic AI, through to model deployment and MLOps.
 
 ### Continuing Education (Bachelor/Master level) | CNAM Lyon 
 University modules in Mathematics, Computer Science, and Project Management
