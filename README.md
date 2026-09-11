@@ -1,7 +1,7 @@
 ## About me
-I am a **Data Scientist** 💻 and an **organic chemist** ⚗️.
+I am a **Data Scientist** 💻 with a prior background as an **organic chemist** ⚗️.
 
-My background in **chemistry** and R&D has trained me to tackle complex problems, analyze data with precision, and uncover hidden patterns within highly technical datasets at the crossroads of life sciences (chemistry, biology, biochemistry…). This passion for exploration naturally led me to **Data Science**, where I strive to harness data to generate valuable insights and identify emerging trends through **statistics**, **machine learning** and **AI**.
+My passion for Data Science drives me to harness data through statistics, machine learning, and AI, to generate valuable insights and identify emerging trends within highly technical environment. This pursuit is grounded in my background in chemistry and R&D, which trained me to tackle complex problems, analyze data with precision, and uncover hidden patterns at the crossroads of life sciences (chemistry, biology, biochemistry…).
 
 By combining these skills with a deep understanding of life sciences, I aim to make impactful contributions to research and innovation. 📊🚀
 
